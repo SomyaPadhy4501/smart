@@ -1,0 +1,12 @@
+.main-footer {
+    font-weight: bold;
+    background-color: rgba(210, 151, 63, 0.7);;
+    padding-top: 20px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 8px;
+    padding-bottom: 20px;
+  }
